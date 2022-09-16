@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[ 🔗 Cliqui aqui para acessar](https://hubton59.github.io/NLW_eSports_explorer)
+[ 🔗 Cliqui aqui para acessar](hubton59.github.io/projeto-editado/)
 
 ## 👨‍💻 Tecnologias
 
